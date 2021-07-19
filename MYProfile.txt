@@ -3,4 +3,4 @@ Sex : Male
 Age : 25
 Marrital Status : Single
 Employment Status : Employed as an IT professional
-
+CTC : 4 lac

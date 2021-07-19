@@ -7,5 +7,7 @@ These days since the vaccination has been given to most of the people the impact
 
 Website Contents
 
+Adding some contents into the website as intro.
+
 1. index.html
 
